@@ -8,7 +8,7 @@ namespace AutomationFraeworkCSharp
     public class Tests:BaseTesting
     {
       
-        [Test]
+        [Test,Category("Regression Testing")]
         public void Method1()
         {        
             driver.Navigate().GoToUrl("https://www.google.com");
@@ -18,7 +18,7 @@ namespace AutomationFraeworkCSharp
             serachvalue.SendKeys(Keys.Enter);
             Thread.Sleep(5000);        
         }
-        [Test]
+        [Test, Category("Smoke Testing")]
 
         public void Method2() { 
                  
