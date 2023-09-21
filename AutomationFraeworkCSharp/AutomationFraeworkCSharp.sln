@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAutomationFramework", "CSharpAutomationFramework.csproj", "{7002BDE2-197A-4310-B136-BD507A2B54D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationFraeworkCSharp", "AutomationFraeworkCSharp.csproj", "{CE3C5085-F8E3-471E-ABEE-162D83506DCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7002BDE2-197A-4310-B136-BD507A2B54D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7002BDE2-197A-4310-B136-BD507A2B54D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7002BDE2-197A-4310-B136-BD507A2B54D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7002BDE2-197A-4310-B136-BD507A2B54D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3C5085-F8E3-471E-ABEE-162D83506DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3C5085-F8E3-471E-ABEE-162D83506DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3C5085-F8E3-471E-ABEE-162D83506DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3C5085-F8E3-471E-ABEE-162D83506DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {08E5BB8E-9648-4EF5-981A-113100AE6839}
+		SolutionGuid = {97B53398-1769-48B8-915B-E9D09832785F}
 	EndGlobalSection
 EndGlobal
